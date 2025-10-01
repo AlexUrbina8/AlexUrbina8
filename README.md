@@ -16,8 +16,8 @@ const aboutMe = {
     semester: 6,
     hobbies: ["Programming", "Reading", "Videogames", "Hanging out with friends"],
     skills: ["HTML", "CSS", "JS", "SASS"],
-    contact: {
-        emails: ["alejandrourbinag8@gmail.com", "alejandrourbina08@outlook.com"],
+    contact: { 
+        emails: ["alejandrourbinag8@gmail.com"],
         github: "https://github.com/AlexUrbina8"
     },
     currentlyLearning: [
